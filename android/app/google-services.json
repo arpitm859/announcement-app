@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839258800069",
+    "firebase_url": "https://flash-chat-83860.firebaseio.com",
+    "project_id": "flash-chat-83860",
+    "storage_bucket": "flash-chat-83860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839258800069:android:b850e8e99c06467d4bd5ac",
+        "android_client_info": {
+          "package_name": "co.arima.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839258800069-t7020eor4fmkbing3840g5p0fpotqu2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvz-JQaWeGIZFCxc8ujEydOVFFhWuZtUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839258800069-t7020eor4fmkbing3840g5p0fpotqu2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
